@@ -3,6 +3,6 @@
   "description": "A sample app to demonstrate the use of grunt node webkit builder",
   "devDependencies": {
     "grunt": "latest",
-    "grunt-nw-builder": "latest"
+    "grunt-nw-builder": "https://github.com/thangnc/grunt-nw-builder"
   }
 }

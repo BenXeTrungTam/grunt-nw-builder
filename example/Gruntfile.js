@@ -3,7 +3,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     nwjs: {
       options: {
-        version: '0.10.0',
+        version: '0.15.0',
         buildDir: './build', // Where the build version of my NW.js app is saved
         credits: './public/Credits.html',
         macIcns: './icon.icns', // Path to the Mac icon file
